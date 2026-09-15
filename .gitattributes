@@ -1,0 +1,4 @@
+# Language detection for GitHub
+*.py linguist-detectable
+*.ipynb linguist-detectable
+*.sql linguist-detectable 
